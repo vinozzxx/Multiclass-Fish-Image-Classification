@@ -193,6 +193,11 @@ Would you like me to also **add badges** (TensorFlow, Streamlit, Python, MIT Lic
 ```
 
 
+**[`^🔝 Back to top^`](###-🎯-Goal)**
+
+**[`^🔝 Back to top^`](#🐟-Multiclass-Fish-Image-Classification)**
+
+**[`^        back to top        ^`](#-🐟-Multiclass-Fish-Image-Classification)**
 
 
 
