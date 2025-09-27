@@ -64,6 +64,14 @@ This project demonstrates the complete lifecycle of a supervised deep learning a
 
 ---
 
+## Dashboard  
+
+- **Overview**
+
+    ![Dashboard](https://github.com/vinozzxx/Amazon-Music-Clustering/blob/1bb9a9da0ddaaec99fe676260d93cb5e588c0bbe/IMAGE%201%20.png)
+
+    ![Prediction Output](https://github.com/vinozzxx/Amazon-Music-Clustering/blob/1bb9a9da0ddaaec99fe676260d93cb5e588c0bbe/IMAGE%202%20.png)
+
 ## 📁 Project Structure
 
 ```bash
