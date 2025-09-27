@@ -49,8 +49,7 @@ This project demonstrates the complete lifecycle of a supervised deep learning a
 
 ---
 
-**[`^🔝 Back to top^`](#Multiclass-Fish-Image-Classification
-)**
+**[`^   🔝 back to top   ^`](#Multiclass-Fish-Image-Classification)**
 
 ## 🚀 Key Features
 
@@ -107,7 +106,7 @@ multiclass-fish-image-classification/
 
 ```
 
-**[`^🔝 Back to top^`](#🐟-Multiclass-Fish-Image-Classification)**
+**[`^   🔝 back to top   ^`](#Multiclass-Fish-Image-Classification)**
 
 ## ⚡ Quick Start  
 
@@ -141,6 +140,8 @@ python src/train.py \
   --epochs 15 \
   --output_dir saved_models
 ```
+**[`^   🔝 back to top   ^`](#Multiclass-Fish-Image-Classification)**
+
 5️⃣ Evaluate
 ```bash
 python src/evaluate.py --model saved_models/fish_classifier.h5 --data_dir data/test
@@ -163,9 +164,6 @@ albumentations
 streamlit
 joblib
 ```
-
-**[`^🔝 Back to top^`](#🐟-Multiclass-Fish-Image-Classification)**
-
 ---
 🙏 Acknowledgments
 
@@ -187,7 +185,7 @@ Yes — replace data/train/ with your dataset.
 Q4: Can this be extended to object detection?
 This repo is classification-only. For detection, use YOLO/Detectron.
 
-**[`^🔝 Back to top^`](#🐟-Multiclass-Fish-Image-Classification)**
+**[`^   🔝 back to top   ^`](#Multiclass-Fish-Image-Classification)**
 
 ```
 Would you like me to also **add badges** (TensorFlow, Streamlit, Python, MIT License) at the top like a professional GitHub README?
@@ -195,7 +193,7 @@ Would you like me to also **add badges** (TensorFlow, Streamlit, Python, MIT Lic
 
 
 
-**[`^   🔝 back to top   ^`](#Multiclass-Fish-Image-Classification)**
+
 
 
 
