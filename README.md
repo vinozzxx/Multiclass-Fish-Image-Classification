@@ -49,7 +49,7 @@ This project demonstrates the complete lifecycle of a supervised deep learning a
 
 ---
 
-**[`^🔝 Back to top^`](#🐟-Multiclass-Fish-Image-Classification)**
+**[`^🔝 Back to top^`](###-🎯-Goal)**
 
 ## 🚀 Key Features
 
