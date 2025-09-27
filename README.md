@@ -1,4 +1,4 @@
-# 🐟 Multiclass Fish Image Classification
+# Multiclass Fish Image Classification
 
 **Deep learning project to classify fish species from underwater images — end-to-end, from data preprocessing and augmentation to model training, evaluation, and deployment.**
 
@@ -49,7 +49,8 @@ This project demonstrates the complete lifecycle of a supervised deep learning a
 
 ---
 
-**[`^🔝 Back to top^`](###-🎯-Goal)**
+**[`^🔝 Back to top^`](#Multiclass-Fish-Image-Classification
+)**
 
 ## 🚀 Key Features
 
@@ -199,7 +200,9 @@ Would you like me to also **add badges** (TensorFlow, Streamlit, Python, MIT Lic
 
 **[`^        back to top        ^`](#-🐟-Multiclass-Fish-Image-Classification)**
 
+**[`^🔝 Back to top^`](#Multiclass-Fish-Image-Classification)
 
+**[`^        back to top        ^`](#Multiclass-Fish-Image-Classification)**
 
 
 
