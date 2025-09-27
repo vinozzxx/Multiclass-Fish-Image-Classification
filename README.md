@@ -70,7 +70,7 @@ This project demonstrates the complete lifecycle of a supervised deep learning a
 
     ![Dashboard](https://github.com/vinozzxx/Multiclass-Fish-Image-Classification/blob/045c717ebe2074b4ad5728461d9bfa876da3a82e/image_1.png)
 
-    ![Dashboard](https://github.com/vinozzxx/Amazon-Music-Clustering/blob/1bb9a9da0ddaaec99fe676260d93cb5e588c0bbe/IMAGE%201%20.png)
+    ![Dashboard](https://github.com/vinozzxx/Multiclass-Fish-Image-Classification/blob/04cc989988068a254971df778a81987541772f65/image_2.png)
 
     ![Prediction Output](https://github.com/vinozzxx/Amazon-Music-Clustering/blob/1bb9a9da0ddaaec99fe676260d93cb5e588c0bbe/IMAGE%202%20.png)
 
